@@ -1,0 +1,46 @@
+
+.title{
+	
+}
+
+.form-horizontal .control-label {
+	text-align: left;
+}
+
+.head{
+	font-size: 18px;
+	padding: 0;
+	margin-bottom: 0;
+	line-height: 25px;
+}
+
+.valign{
+	vertical-align: middle;
+}
+
+.lyft-img{
+	height: 28px;
+	width: 40px;
+}
+
+.btn-uber{
+	background-color: black;
+	color: white;
+}
+
+.btn-uber:hover{
+	color: black;
+	background-color: white;
+	border-color: black;
+}
+
+.btn-lyft{
+	background-color: #f262b4;
+	color: white;
+}
+
+.btn-lyft:hover{
+	color: #f262b4;
+	background-color: white;
+	border-color: #f262b4;
+}
