@@ -1,5 +1,5 @@
 # uber-lyft-aggregator
-A simple web aggregator portal protype to compare Uber and Lyft taxi availability.
+**A simple web aggregator portal protype to compare Uber and Lyft taxi availability.**
 
 Libraries and API:
 - Uber API
